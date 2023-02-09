@@ -20,5 +20,7 @@
 ## GRADLE
 - (Geadle)[https://medium.com/kufar-tech/gradle-ways-to-share-dependencies-between-modules-27b8c3937f11]
 - (R8)[https://mishra5047.medium.com/key-thing-to-remember-while-working-with-r8-proguard-17b35217c2d]
+
+## DI
 - (Hilt)[https://www.techyourchance.com/dagger-vs-hilt-vs-koin-vs-pure-dependency-injection/]
 - (Koin)[https://proandroiddev.com/now-in-android-with-koin-part-1-2b871d8549f1]
