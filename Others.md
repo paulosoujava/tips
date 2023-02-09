@@ -21,3 +21,4 @@
 - (OfflineCompose)[https://www.valueof.io/blog/compose-ui-state-flow-offline-first-repository]
 - (Manifest)[https://www.droidcon.com/2023/01/20/android-manifest-placeholders-2/]
 - (MultiModuleNavigation)[https://proandroiddev.com/navigation-in-multi-modular-app-using-deeplinks-7b5a97bde798]
+- (OcultarBarras)[https://developer.android.com/training/system-ui/status?hl=pt-br]
