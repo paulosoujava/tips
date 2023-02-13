@@ -12,6 +12,8 @@
 
 ## BottomShet
 - [Bottom](https://www.droidcon.com/2021/08/24/how-to-animate-bottomsheet-content-using-jetpack-compose/) - Animated
+- [2 Bottom](https://proandroiddev.com/hacking-the-compose-bottom-sheet-65bff5826b68) - 2 Bottom
+- 
 
 ## Dro menu
 - [DropMenu](https://www.droidcon.com/2023/02/02/improving-the-compose-dropdownmenu/) - Example
