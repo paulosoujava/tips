@@ -1,5 +1,8 @@
 # External Tips
 
+## Exploding
+-[Exploding](https://github.com/omkar-tenkale/ExplodingComposable) - Exploding
+
 ## Shapes
 - [Shape 1](https://mahendranv.github.io/posts/compose-shapes/) - Example 1
 - [Shape 2](https://blog.devgenius.io/custom-shapes-in-jetpack-compose-deep-dive-b987a52c743c) - Example 2
