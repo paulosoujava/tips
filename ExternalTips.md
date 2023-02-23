@@ -2,6 +2,7 @@
 
 ## Exploding
 -[Exploding](https://github.com/omkar-tenkale/ExplodingComposable) - Exploding
+-[Exploding 2](https://github.com/CuriousNikhil/compose-explode) - Exploding 2
 
 ## Shapes
 - [Shape 1](https://mahendranv.github.io/posts/compose-shapes/) - Example 1
