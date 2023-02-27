@@ -1,5 +1,7 @@
 # External Tips
 
+## Credential
+- [Creditial](https://proandroiddev.com/using-jetpack-credential-manager-to-save-and-retrieve-passwords-in-app-c8d2793f5c5c) - HERE
 ## Caching
 - [Cache](https://medium.com/@andrei_r/easy-caching-android-kotlin-flow-b824a29e8a77) - Caching
 
@@ -11,6 +13,7 @@
 - [Shape 1](https://mahendranv.github.io/posts/compose-shapes/) - Example 1
 - [Shape 2](https://blog.devgenius.io/custom-shapes-in-jetpack-compose-deep-dive-b987a52c743c) - Example 2
 - [Canvas](https://www.droidcon.com/2022/12/15/utilising-the-canvas-in-jetpack-compose-to-build-a-squaresegmentedprogressindicator/) - Example 3
+- [Shape 3](https://juliensalvi.medium.com/custom-shape-with-jetpack-compose-1cb48a991d42) - Example 3
 
 ## Support multiple screens
 - [XDimen](https://medium.com/@islam.kh.sh/android-support-multiple-screen-sizes-by-scaling-dimensions-5fd9bd80821) - multiple screen
