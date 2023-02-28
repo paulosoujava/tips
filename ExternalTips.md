@@ -1,4 +1,6 @@
 # External Tips
+## DSL
+- [DSL](https://kerollosragaie.hashnode.dev/using-kotlin-to-write-dsls) - DSL
 
 ## Credential
 - [Creditial](https://proandroiddev.com/using-jetpack-credential-manager-to-save-and-retrieve-passwords-in-app-c8d2793f5c5c) - HERE
