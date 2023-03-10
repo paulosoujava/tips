@@ -1,4 +1,7 @@
 # External Tips
+## MotionLayout
+- [Motion](https://blog.canopas.com/explore-compose-motionlayout-773a3462d787) - Example
+
 ## DSL
 - [DSL](https://kerollosragaie.hashnode.dev/using-kotlin-to-write-dsls) - DSL part 1
 - [DSL 2](https://kerollosragaie.hashnode.dev/unlock-the-power-of-dsls-with-kotlin-p2) - DSL part 2
